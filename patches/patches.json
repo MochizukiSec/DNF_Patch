@@ -1,0 +1,102 @@
+{
+    "categories": [
+        {
+            "name": "Skill Effects",
+            "patches": [
+                {
+                    "id": "skill_effect_1",
+                    "name": "Enhanced Skill Effects",
+                    "description": "Makes skill effects more vibrant and noticeable",
+                    "filename": "skill_effects_enhanced.npk",
+                    "version": "1.0.0",
+                    "author": "DNF Community",
+                    "tags": ["effects", "skills"],
+                    "rating": {
+                        "average": 4.5,
+                        "count": 128
+                    },
+                    "previews": [
+                        {
+                            "url": "previews/skill_effects_enhanced_1.png",
+                            "description": "Fighter skills preview"
+                        },
+                        {
+                            "url": "previews/skill_effects_enhanced_2.png",
+                            "description": "Mage skills preview"
+                        }
+                    ],
+                    "updateInfo": {
+                        "latestVersion": "1.0.1",
+                        "updateUrl": "https://example.com/patches/skill_effect_1",
+                        "changelog": "- Fixed some visual glitches\n- Improved performance"
+                    },
+                    "downloads": 1520,
+                    "lastUpdated": "2025-01-15T00:00:00Z"
+                },
+                {
+                    "id": "skill_effect_2",
+                    "name": "Classic Skill Effects",
+                    "description": "Restores classic DNF skill visual effects",
+                    "filename": "skill_effects_classic.npk",
+                    "version": "1.0.0",
+                    "author": "DNF Community",
+                    "tags": ["effects", "skills", "classic"],
+                    "rating": {
+                        "average": 4.8,
+                        "count": 256
+                    },
+                    "previews": [
+                        {
+                            "url": "previews/skill_effects_classic_1.png",
+                            "description": "Classic effects comparison"
+                        }
+                    ],
+                    "updateInfo": {
+                        "latestVersion": "1.0.0",
+                        "updateUrl": "https://example.com/patches/skill_effect_2",
+                        "changelog": "Initial release"
+                    },
+                    "downloads": 2150,
+                    "lastUpdated": "2025-01-10T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "UI Improvements",
+            "patches": [
+                {
+                    "id": "ui_modern",
+                    "name": "Modern UI Pack",
+                    "description": "Updates the game interface with a modern look",
+                    "filename": "ui_modern.npk",
+                    "version": "1.0.0",
+                    "author": "DNF Community",
+                    "tags": ["ui", "interface"]
+                },
+                {
+                    "id": "ui_minimal",
+                    "name": "Minimal UI",
+                    "description": "Clean and minimal interface design",
+                    "filename": "ui_minimal.npk",
+                    "version": "1.0.0",
+                    "author": "DNF Community",
+                    "tags": ["ui", "interface", "minimal"]
+                }
+            ]
+        },
+        {
+            "name": "Performance",
+            "patches": [
+                {
+                    "id": "perf_optimize",
+                    "name": "Performance Optimizer",
+                    "description": "Optimizes game textures for better performance",
+                    "filename": "performance_optimizer.npk",
+                    "version": "1.0.0",
+                    "author": "DNF Community",
+                    "tags": ["performance", "optimization"]
+                }
+            ]
+        }
+    ]
+}
